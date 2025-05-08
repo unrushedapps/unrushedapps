@@ -1,4 +1,8 @@
-# Privacy Policy for App Pause
+---
+layout: page
+title:  Privacy Policy for App Pause
+permalink: /app-pause/privacy-policy
+---
 
 This privacy policy is applicable to the App Pause app (hereinafter referred to as "Application") for mobile devices, which was developed by Unrushed Apps Ltd (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
 
