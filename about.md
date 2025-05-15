@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Samiul, the solo dev behind Unrushed Apps Ltd.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I started this company in hopes of creating something useful for the world. "Don't just consume, Create!" 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@unrushedapps.com](mailto:contact@unrushedapps.com)
